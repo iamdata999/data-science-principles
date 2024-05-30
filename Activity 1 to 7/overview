@@ -1,0 +1,13 @@
+Overview of Activities 1 to 7
+
+In this project, we undertook a series of structured activities to build a robust data science solution, 
+focusing on flight delay predictions using Microsoft Azure Machine Learning.
+
+In this project, we structured a data science solution for flight delay prediction using Microsoft Azure Machine Learning, 
+involving defining team roles, creating and preparing a new experiment, cleaning the data, training a regression model, 
+evaluating its performance, and deploying it as a web service for practical application.
+
+In summary, these activities encompassed the complete data science workflow, 
+from defining team roles and preparing data to training and deploying a machine
+learning model. Each step was meticulously executed to ensure the accuracy and
+reliability of the final predictive model, thereby contributing to effective data-driven decision-making.
