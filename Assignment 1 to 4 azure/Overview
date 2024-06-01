@@ -1,0 +1,11 @@
+Overview of Working with Compute Resources in Azure Machine Learning
+
+Leveraging scalable, on-demand cloud compute resources in Azure Machine 
+Learning is crucial for efficient data science and machine learning tasks. 
+This approach offers cost efficiency by paying only for used resources and provides the 
+flexibility to scale computational power based on task requirements. It supports 
+extensive experimentation and production deployment without hardware constraints. 
+Azure's integrated management simplifies provisioning and scaling, 
+enhances reproducibility, and ensures seamless integration with other services. 
+Overall, understanding and utilizing these resources streamline the development 
+and deployment of robust machine learning solutions.
